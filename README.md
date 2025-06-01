@@ -83,7 +83,7 @@ Antes de executar os notebooks `TCC_SegFormer` e `TCC_Unet`, execute primeiro o 
 Para execução dos notebooks, é necessário realizar o download prévio do conjunto de dados utilizado no projeto.  
 O dataset está disponível publicamente na plataforma **OpenNeuro** no seguinte link:
 
-- [OpenNeuro - University Hospital Bonn Dataset](https://openneuro.org/) (buscar pelo dataset de Displasia Cortical Focal disponibilizado pelo University Hospital Bonn).
+- [OpenNeuro - University Hospital Bonn Dataset](https://openneuro.org/datasets/ds004199/versions/1.0.5).
 
 Após o download, as imagens devem ser organizadas conforme o esperado no notebook de pré-processamento (`11913509_TCC_Dataset.ipynb`).
 
